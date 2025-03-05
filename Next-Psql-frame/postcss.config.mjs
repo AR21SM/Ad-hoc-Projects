@@ -1,4 +1,4 @@
-rmdir /s /q .git const config = {
+const config = {
   plugins: ["@tailwindcss/postcss"],
 };
 
